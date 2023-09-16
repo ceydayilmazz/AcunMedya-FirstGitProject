@@ -1,1 +1,2 @@
 bu benim ilk yazdığım kod
+ben bu dosyada değişiklik yaptım
