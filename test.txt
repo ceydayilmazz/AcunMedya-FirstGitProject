@@ -2,3 +2,4 @@ bu benim ilk yazdığım kod
 ben bu dosyada değişiklik yaptım
 
 conflict değşikliği-1
+conflict değişikliği 2
