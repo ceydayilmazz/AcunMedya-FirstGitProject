@@ -3,6 +3,3 @@ ben bu dosyada değişiklik yaptım
 
 conflict değşikliği-1
 conflict değişikliği 2
-
-
-ben bu değişikliği geri alacağım.
